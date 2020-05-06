@@ -10,10 +10,18 @@
 [![Fast Exponentiation](https://img.shields.io/badge/CP-Fast%20Exponentiation-red)](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
 [![Catalan Number](https://img.shields.io/badge/CP-Catalan%20Number-lightgrey)](https://www.geeksforgeeks.org/program-nth-catalan-number/)
 [![Solving Linear Recurrence Relation](https://img.shields.io/badge/CP-Solving%20Linear%20Recurrence%20Relation-blue)](https://www.hackerearth.com/practice/notes/solving-linear-recurrence-relation/)
+
 [![Recursive Subsequence](https://img.shields.io/badge/CP-Recursive%20Subsequence-orange)](https://www.spoj.com/problems/SEQ/)
 [![Divisible Subset:](https://img.shields.io/badge/CP-Divisible%20Subset%3A-yellowgreen)](https://www.codechef.com/problems/DIVSUBS/)
 [![Pigeonhole Principle](https://img.shields.io/badge/CP-Pigeonhole%20Principle-brightgreen)](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
 [![SPOJ HOLI](https://img.shields.io/badge/CP-SPOJ%20HOLI-lightgrey)](https://www.spoj.com/problems/HOLI/)
+
+[![The Grey Similar Code](https://img.shields.io/badge/CP-The%20Grey%20Similar%20Code-green)](https://www.codechef.com/problems/GRAYSC)
+[![Inclusion and Exclusion Principle](https://img.shields.io/badge/CP-Inclusion%20and%20Exclusion%20Principle-orange)](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
+[![Sereja and LCM](https://img.shields.io/badge/CP-Sereja%20and%20LCM-red)](https://www.codechef.com/problems/SEALCM)
+[![Mathematical expectation and Bernoulli Trials](https://img.shields.io/badge/CP-Mathematical%20expectation%20and%20Bernoulli%20Trials-blue)](https://www.codechef.com/wiki/tutorial-expectation)
+[![OEIS](https://img.shields.io/badge/CP-OEIS-lightgrey)](http://oeis.org/)
+
 
 
 
