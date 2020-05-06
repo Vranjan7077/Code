@@ -1,4 +1,5 @@
 ## MATHS (Competitive Programming)
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ## Some Useful Links
@@ -35,5 +36,4 @@
 [![Tavas and SaDDas Codeforces](https://img.shields.io/badge/Ques-Tavas%20and%20SaDDas%20Codeforces-yellowgreen)](https://codeforces.com/problemset/problem/535/B)
 [![Summing Sums SPOJ](https://img.shields.io/badge/Ques-Summing%20Sums%20SPOJ-yellow)](https://www.spoj.com/problems/SUMSUMS/)
 [![Marbles SPOJ](https://img.shields.io/badge/Ques-Marbles%20SPOJ-orange)](https://www.spoj.com/problems/MARBLES/)
-
 
