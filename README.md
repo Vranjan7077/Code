@@ -1,5 +1,4 @@
-# MATHS (Competitive Programming)
-
+## MATHS (Competitive Programming)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ## Some Useful Links
