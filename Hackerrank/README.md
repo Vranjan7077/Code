@@ -8,6 +8,7 @@
 </br>
 
 This repo contains all of my personal HackerRank solutions.
+
 *All solutions were made with the sole intent of solving the corresponding HackerRank challenge.  Solutions may not be as efficient as possible.*  
 
 ## Table of Contents <!-- omit in toc -->
