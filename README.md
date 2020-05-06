@@ -11,7 +11,7 @@
 [![Catalan Number](https://img.shields.io/badge/CP-Catalan%20Number-lightgrey)](https://www.geeksforgeeks.org/program-nth-catalan-number/)
 [![Solving Linear Recurrence Relation](https://img.shields.io/badge/CP-Solving%20Linear%20Recurrence%20Relation-blue)](https://www.hackerearth.com/practice/notes/solving-linear-recurrence-relation/)
 [![Recursive Subsequence](https://img.shields.io/badge/CP-Recursive%20Subsequence-orange)](https://www.spoj.com/problems/SEQ/)
-[![Divisible Subset:](https://img.shields.io/badge/CP-Factorial%20of%20Large%20Numhttps://img.shields.io/badge/CP-Divisible%20Subset%3A-yellowgreen)](https://www.codechef.com/problems/DIVSUBS)
+[![Divisible Subset:](https://img.shields.io/badge/CP-Factorial%20of%20Large%20Numhttps://img.shields.io/badge/CP-Divisible%20Subset%3A-yellowgreen)](https://www.codechef.com/problems/DIVSUBS/)
 [![Pigeonhole Principle](https://img.shields.io/badge/CP-Pigeonhole%20Principle-brightgreen)](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
 [![SPOJ HOLI](https://img.shields.io/badge/CP-SPOJ%20HOLI-lightgrey)](https://www.spoj.com/problems/HOLI/)
 
