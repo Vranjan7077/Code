@@ -19,7 +19,17 @@
 [![Sereja and LCM](https://img.shields.io/badge/CP-Sereja%20and%20LCM-red)](https://www.codechef.com/problems/SEALCM)
 [![Mathematical expectation and Bernoulli Trials](https://img.shields.io/badge/CP-Mathematical%20expectation%20and%20Bernoulli%20Trials-blue)](https://www.codechef.com/wiki/tutorial-expectation)
 --------------------------------------------------------------------------------------------------------------------------------------
-# More Questions
+### More Questions
 
+[![SPOJ JULKA](https://img.shields.io/badge/Ques-SPOJ%20JULKA-brightgreen)](https://www.spoj.com/problems/JULKA/)
+[![Hair Counting Problem](https://img.shields.io/badge/Ques-Hair%20Counting%20Problem-yellow)](https://www.mathscareers.org.uk/article/pigeonhole-principle/)
+[![Prime looking number](https://img.shields.io/badge/Ques-Prime%20looking%20number-blue)](https://www.cut-the-knot.org/arithmetic/combinatorics/InclExclEx.shtml)
+[![Coupon collector problem](https://img.shields.io/badge/Ques-Coupon%20collector%20proble-lightgrey)](https://www.youtube.com/watch?v=3mu47FWEuqA)
+[![SPOJ FAVDICE](https://img.shields.io/badge/Ques-SPOJ%20FAVDICE-orange)](https://www.spoj.com/problems/FAVDICE/)
+[![SPOJ FIBOSUM](https://img.shields.io/badge/Ques-SPOJ%20FIBOSUM-green)](https://www.spoj.com/problems/FIBOSUM/)
+[![Modulo Sum Codeforces](https://img.shields.io/badge/Ques-Modulo%20Sum%20Codeforces-red)](https://codeforces.com/problemset/problem/577/B)
+[![Tavas and SaDDas Codeforces](https://img.shields.io/badge/Ques-Tavas%20and%20SaDDas%20Codeforces-yellowgreen)](https://codeforces.com/problemset/problem/535/B)
+[![Summing Sums SPOJ](https://img.shields.io/badge/Ques-Summing%20Sums%20SPOJ-yellow)](https://www.spoj.com/problems/SUMSUMS/)
+[![Marbles SPOJ](https://img.shields.io/badge/Ques-Marbles%20SPOJ-orange)](https://www.spoj.com/problems/MARBLES/)
 
 
