@@ -1,14 +1,7 @@
 <div align="center">
-<img src="https://github.com/Vranjan7077/Code/blob/master/codec.jpg" width="450" height="auto"/>
-<img src="https://github.com/Vranjan7077/Code/blob/master/codef.jpg" width="450" height="auto"/>
 <img src="https://github.com/Vranjan7077/Code/blob/master/gfg.png" width="450" height="auto"/>
 <img src="https://github.com/Vranjan7077/Code/blob/master/he_logo.png" width="450" height="auto"/>
 <img src="https://github.com/Vranjan7077/Code/blob/master/hr_logo.png" width="450" height="auto"/>
-
-
-
-
-
 </div>
 </br>
 </br>
