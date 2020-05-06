@@ -1,5 +1,3 @@
-# Hackerrank
-
 <div align="center">
 <img src="https://github.com/Vranjan7077/HackerRank/raw/master/logo.png" width="450" height="auto"/>
 
