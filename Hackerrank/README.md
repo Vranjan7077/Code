@@ -15,4 +15,4 @@ This repo contains all of my personal HackerRank solutions.
 
 - [C++](#c++)
 - [Java](#java)
-- [Tutorials](#tutorials)
+- [Javascript](#javascript)
