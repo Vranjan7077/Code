@@ -1,5 +1,7 @@
 # MATHS (Competitive Programming)
+
 --------------------------------------------------------------------------------------------------------------------------------------
+
 ## Some Useful Links
 
 [![Birthday Paradox Problem](https://img.shields.io/badge/CP-Birthday%20Paradox%20Problem-brightgreen)](https://www.geeksforgeeks.org/birthday-paradox/)
@@ -19,7 +21,9 @@
 [![Inclusion and Exclusion Principle](https://img.shields.io/badge/CP-Inclusion%20and%20Exclusion%20Principle-orange)](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
 [![Sereja and LCM](https://img.shields.io/badge/CP-Sereja%20and%20LCM-red)](https://www.codechef.com/problems/SEALCM)
 [![Mathematical expectation and Bernoulli Trials](https://img.shields.io/badge/CP-Mathematical%20expectation%20and%20Bernoulli%20Trials-blue)](https://www.codechef.com/wiki/tutorial-expectation)
+
 --------------------------------------------------------------------------------------------------------------------------------------
+
 ### More Questions
 
 [![SPOJ JULKA](https://img.shields.io/badge/Ques-SPOJ%20JULKA-brightgreen)](https://www.spoj.com/problems/JULKA/)
