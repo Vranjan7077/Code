@@ -13,6 +13,6 @@ This repo contains all of my personal HackerRank solutions.
 
 ## Table of Contents <!-- omit in toc -->
 
-- [C++](#c)
+- [C++](#c++)
 - [Java](#java)
 - [Tutorials](#tutorials)
