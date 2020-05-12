@@ -1,0 +1,3 @@
+/*
+Java Static Initializer Block
+*/
