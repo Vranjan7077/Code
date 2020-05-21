@@ -1,0 +1,15 @@
+https://www.geeksforgeeks.org/data-structure-gq/stack-gq/
+https://www.geeksforgeeks.org/gate-gate-cs-2003-question-64/
+https://www.geeksforgeeks.org/gate-gate-cs-2001-question-41/
+https://www.cdn.geeksforgeeks.org/isro-isro-cs-2017-question-53/
+https://www.geeksforgeeks.org/data-structures-linked-list-question-1/
+http://www.geeksforgeeks.org/practice-questions-for-linked-list-and-recursion/
+https://www.geeksforgeeks.org/data-structure-gq/linked-list-gq/
+http://www.geeksforgeeks.org/linked-list-vs-array/
+https://www.geeksforgeeks.org/isro-isro-cs-2018-question-34/
+https://www.geeksforgeeks.org/ugc-net-ugc-net-cs-2015-dec-iii-question-53/
+https://www.geeksforgeeks.org/isro-isro-cs-2013-question-4/
+https://www.geeksforgeeks.org/data-structure-gq/hash-gq/
+http://www.geeksforgeeks.org/data-structures-and-algorithms-set-24/
+http://lcm.csa.iisc.ernet.in/dsa/node38.html
+
